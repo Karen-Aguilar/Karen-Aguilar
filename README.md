@@ -1,3 +1,5 @@
+## Hi, I'm Karen...
+
 - 👋 Hi, I’m Karen Estefanía but usually people call me Karen!
 - 👀 I’m interested in Data Analyst 
 - 🌱 I’m currently learning Python, SQL, Power BI and others 
