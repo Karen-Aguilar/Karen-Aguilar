@@ -12,53 +12,26 @@
 - 📫 My critical reasoning and my discipline accompany me to achieve my goals!
 ---
 
-### Technology
-SQL
-Python
-BigQuery 
-Google Colab
-Google Slides
-Google Sheets
-Google Documents
-Jupyter Notebook
-Power BI
-Looker Studio
-Excel 
-Power Point
-Word
-Slack
-Notion
+## 🚀 Technologies
 
----
-### Hábilidades técnicas
-Dashboards
-cuartiles 
-deciles
-percentiles
-segmentación 
-regresión lineal
-estadística descriptiva
-gráficas de dispersión
-validación de hipótesis
-histogramas
-metodología ágil
+- **Languages**: SQL, Python
+- **Data Tools**: BigQuery, Google Colab, Jupyter Notebook, Power BI, Looker Studio
+- **Productivity Tools**: Excel, PowerPoint, Word, Slack, Notion
 
----
+## 📈 Technical Skills
 
-### Life Skills
-Razonamiento analítico 
-resolución de problemas
-aprendizaje continuo
-iniciativa
-habilidades sociales y comunicativas
-trabajo en equipo
-organización
-liderazgo
-proactividad
-adaptabilidad
-creatividad
-atención al detalle
-curiosidad
+- **Data Visualization**: Dashboards, Scatter Plots, Histograms
+- **Statistical Analysis**: Quartiles, Deciles, Percentiles, Descriptive Statistics, Hypothesis Testing
+- **Machine Learning**: Linear Regression
+- **Agile Methodology**: Continuous Improvement
+
+## 🌟 Life Skills
+
+- **Problem-Solving**: Analytical Reasoning, Initiative
+- **Communication**: Social and Communication Skills, Teamwork
+- **Personal Development**: Continuous Learning, Adaptability, Creativity
+- **Leadership**: Organization, Leadership, Proactivity, Attention to Detail, Curiosity
+
 
 ---
 ### Link
