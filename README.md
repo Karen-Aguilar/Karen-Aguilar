@@ -30,19 +30,7 @@
   <p>Detalles sobre Power BI</p>
 </details>
 
------
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="width: 80px; height: 40px; border: 2px solid black; border-radius: 10px; background-color: yellow; margin: 10px; display: flex; justify-content: center; align-items: center;">
-        <p style="margin: 0;">SQL</p>
-    </div>
-    <div style="width: 80px; height: 40px; border: 2px solid black; border-radius: 10px; background-color: green; margin: 10px; display: flex; justify-content: center; align-items: center;">
-        <p style="margin: 0;">Python</p>
-    </div>
-    <div style="width: 80px; height: 40px; border: 2px solid black; border-radius: 10px; background-color: orange; margin: 10px; display: flex; justify-content: center; align-items: center;">
-        <p style="margin: 0;">Power BI</p>
-    </div>
-</div>
 
 
 
