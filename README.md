@@ -12,11 +12,6 @@
 - 📫 My critical reasoning and my discipline accompany me to achieve my goals!
 
 ---
-- <span style="color: blue;">**Languages:** SQL, Python</span>
-- <span style="color: green;">**Data Tools:** BigQuery, Google Colab, Jupyter Notebook, Power BI, Looker Studio</span>
-- <span style="color: orange;">**Productivity Tools:** Excel, PowerPoint, Word, Slack, Notion</span>
-
----
 
 ## 🚀 Technologies
 
