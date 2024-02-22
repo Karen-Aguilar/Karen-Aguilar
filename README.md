@@ -3,11 +3,11 @@
 
 
 Hey there! 👋 I welcome you! I'm so glad you're here...
-I'm Karen, an Engineer passionate about **Data Analysis** and **Data Science**. I firmly believe in the transformative power of data in decision-making; *data inspires* and *decisions transform*!
+I'm Karen, an Engineer passionate about **Data Analysis** and **Data Science**. I firmly believe in the transformative power of data in decision-making; [*data inspires* and *decisions transform*!](https://github.com/pandao/editor.md "Heading link")
 
 I'm excited to collaborate in teams where I can apply my skills to make a positive impact both in the lives of others and in the organization I work for.
 
-##### Your visit means a lot to me! Thank you for being here! ✨
+##### [Your visit means a lot to me! Thank you for being here! ✨](https://github.com/pandao/editor.md "Heading link")
 
 ---
 
