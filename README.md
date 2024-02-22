@@ -12,19 +12,19 @@
 
 ---
 
-## 🚀 Technologies
+## 🚀 [Technologies](https://github.com/pandao/editor.md "Heading link")
 - **Languages**: `SQL` `Python`
 - **Data Tools**: `BigQuery` `Google Colab` `Jupyter Notebook` `Power BI` `Looker Studio` `Google Sheets` `Excel`
 - **Productivity Tools**: `Google Documents` `Google Slides` `PowerPoint` `Word` `Slack` `Notion`
 
-## 📈 Technical Skills
+## 📈 [Technical Skills](https://github.com/pandao/editor.md "Heading link")
 
 - **Data Visualization**: Dashboards, Scatter Plots, Histograms
 - **Statistical Analysis**: Quartiles, Deciles, Percentiles, Descriptive Statistics, Hypothesis Testing
 - **Machine Learning**: Linear Regression
 - **Agile Methodology**: Continuous Improvement
 
-## 🌟 Life Skills
+## 🌟 [Life Skills](https://github.com/pandao/editor.md "Heading link")
 
 - **Problem-Solving**: Analytical Reasoning, Initiative
 - **Communication**: Social and Communication Skills, Teamwork
