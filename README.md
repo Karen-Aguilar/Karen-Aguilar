@@ -13,34 +13,54 @@
 ---
 
 ### Technology
+SQL
+Python
+BigQuery 
+Google Colab
+Google Slides
+Google Sheets
+Google Documents
+Jupyter Notebook
+Power BI
+Looker Studio
+Excel 
+Power Point
+Word
+Slack
+Notion
 
+---
+### Hábilidades técnicas
+Dashboards
+cuartiles 
+deciles
+percentiles
+segmentación 
+regresión lineal
+estadística descriptiva
+gráficas de dispersión
+validación de hipótesis
+histogramas
+metodología ágil
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="width: 80px; height: 40px; border: 2px solid black; border-radius: 10px; background-color: yellow; margin: 10px; display: flex; justify-content: center; align-items: center;">
-        <p style="margin: 0;">SQL</p>
-    </div>
-    <div style="width: 80px; height: 40px; border: 2px solid black; border-radius: 10px; background-color: green; margin: 10px; display: flex; justify-content: center; align-items: center;">
-        <p style="margin: 0;">Python</p>
-    </div>
-    <div style="width: 80px; height: 40px; border: 2px solid black; border-radius: 10px; background-color: orange; margin: 10px; display: flex; justify-content: center; align-items: center;">
-        <p style="margin: 0;">Power BI</p>
-    </div>
-</div>
+---
 
+### Life Skills
+Razonamiento analítico 
+resolución de problemas
+aprendizaje continuo
+iniciativa
+habilidades sociales y comunicativas
+trabajo en equipo
+organización
+liderazgo
+proactividad
+adaptabilidad
+creatividad
+atención al detalle
+curiosidad
 
-
-
-
-
-
-Hábilidades técnicas
-
-Hábilidades de vida
-
-
-###Links
-
-[Links](http://localhost/)
+### Link
 
 [Links with title](http://localhost/ "link title")
 
