@@ -4,24 +4,22 @@
 ![Untitled (6)](https://github.com/Karen-Aguilar/Karen-Aguilar/assets/151496907/40f5d922-25be-4bee-be8d-005e09ded809)
 
 
-
-I'm Karen Estefanía, but you can call me Karen!
-
-👀 I'm passionate about **Data Analysis**.
-
-🌱 Currently, I'm learning **Python**, **SQL**, **Power BI**, and more!
-
-💞️ I'm eager to collaborate on **team projects**.
-
-- 📫 My critical reasoning and my discipline accompany me to achieve my goals!
+👋 Hi, I’m Karen Estefanía but usually people call me Karen!
+👀 I’m interested in Data Analyst and Data Science
+🌱 I’m currently learning Python, SQL, Power BI and others
+💞️ I’m looking to collaborate on teamwork
+📫 My critical reasoning and my discipline accompany me to achieve my goals!
 
 ---
 
 ## 🚀 Technologies
+`SQL` `Python BigQuery` `Google Colab` `Jupyter Notebook` 
+`Power BI` `Looker Studio` `Google Sheets` `Excel` 
+`Google Documents` Google Slides` `PowerPoint` `Word` `Slack` `Notion`
 
 - **Languages**: SQL, Python
-- **Data Tools**: BigQuery, Google Colab, Jupyter Notebook, Power BI, Looker Studio
-- **Productivity Tools**: Excel, PowerPoint, Word, Slack, Notion
+- **Data Tools**: BigQuery, Google Colab, Jupyter Notebook, Power BI, Looker Studio, Google Sheets, Excel
+- **Productivity Tools**: Google Documents, Google Slides, PowerPoint, Word, Slack, Notion
 
 ## 📈 Technical Skills
 
