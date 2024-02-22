@@ -7,7 +7,7 @@
 
 ### I'm excited to collaborate in teams where I can apply my skills to make a positive impact both in the lives of others and in the organization I work for.
 
-##### [Your visit means a lot to me! Thank you for being here! ✨](https://github.com/pandao/editor.md "Heading link")
+### [Your visit means a lot to me! Thank you for being here! ✨](https://github.com/pandao/editor.md "Heading link")
 
 ---
 
