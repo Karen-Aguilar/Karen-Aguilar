@@ -1,4 +1,4 @@
-## Hi, I'm Karen Estefanía, but you can call me Karen!...
+## Hi, I'm Karen Estefanía, but you can call me Karen!
 ![Untitled (6)](https://github.com/Karen-Aguilar/Karen-Aguilar/assets/151496907/40f5d922-25be-4bee-be8d-005e09ded809)
 
 
