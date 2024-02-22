@@ -5,10 +5,14 @@
 
 
 
-- 👋 Hi, I’m Karen Estefanía but usually people call me Karen!
-- 👀 I’m interested in Data Analyst 
-- 🌱 I’m currently learning Python, SQL, Power BI and others 
-- 💞️ I’m looking to collaborate on teamwork
+I'm Karen Estefanía, but you can call me Karen!
+
+👀 I'm passionate about **Data Analysis**.
+
+🌱 Currently, I'm learning **Python**, **SQL**, **Power BI**, and more!
+
+💞️ I'm eager to collaborate on **team projects**.
+
 - 📫 My critical reasoning and my discipline accompany me to achieve my goals!
 
 ---
