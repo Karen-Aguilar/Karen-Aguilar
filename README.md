@@ -11,6 +11,7 @@
 - 💞️ I’m looking to collaborate on teamwork
 - 📫 My critical reasoning and my discipline accompany me to achieve my goals!
 ---
+---
 ### Technology
 
 <details>
