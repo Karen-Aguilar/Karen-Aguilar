@@ -13,17 +13,9 @@
 ---
 
 ## 🚀 Technologies
-## `SQL` `Python` `BigQuery` `Google Colab` `Jupyter Notebook` 
-## `Power BI` `Looker Studio` `Google Sheets` `Excel` 
-## `Google Documents` `Google Slides` `PowerPoint` `Word` `Slack` `Notion`
-
-- **Languages**: SQL, Python
-- **Data Tools**: BigQuery, Google Colab, Jupyter Notebook, Power BI, Looker Studio, Google Sheets, Excel
-- **Productivity Tools**: Google Documents, Google Slides, PowerPoint, Word, Slack, Notion
-
-- **Languages**: `SQL` `Python`
-- **Data Tools**: `BigQuery` `Google Colab` `Jupyter Notebook` `Power BI` `Looker Studio` `Google Sheets` `Excel`
-- **Productivity Tools**: `Google Documents` `Google Slides` `PowerPoint` `Word` `Slack` `Notion`
+- ### **Languages**: `SQL` `Python`
+- ### **Data Tools**: `BigQuery` `Google Colab` `Jupyter Notebook` `Power BI` `Looker Studio` `Google Sheets` `Excel`
+- ### **Productivity Tools**: `Google Documents` `Google Slides` `PowerPoint` `Word` `Slack` `Notion`
 
 ## 📈 Technical Skills
 
