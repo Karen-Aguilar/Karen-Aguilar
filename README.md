@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Python, SQL, Power BI and others 
 - 💞️ I’m looking to collaborate on teamwork
 - 📫 My critical reasoning and my discipline accompany me to achieve my goals!
-![Untitled (6)](https://github.com/Karen-Aguilar/Karen-Aguilar/assets/151496907/8374a422-d5ca-4029-886d-1ee42329459e)
+
+![Untitled (7)](https://github.com/Karen-Aguilar/Karen-Aguilar/assets/151496907/65f1cb13-4194-4071-873a-c4b075494653)
 
 
 
