@@ -2,7 +2,7 @@
 
 
 ![Untitled (6)](https://github.com/Karen-Aguilar/Karen-Aguilar/assets/151496907/40f5d922-25be-4bee-be8d-005e09ded809)
-
+## Hi, I'm Karen...
 
 👋 Hi, I’m Karen Estefanía but usually people call me Karen!
 👀 I’m interested in Data Analyst and Data Science
