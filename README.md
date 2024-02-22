@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Python, SQL, Power BI and others 
 - 💞️ I’m looking to collaborate on teamwork
 - 📫 My critical reasoning and my discipline accompany me to achieve my goals!
-![render-3d-diseno-moderno-plexo-baja-poli](https://github.com/Karen-Aguilar/Karen-Aguilar/assets/151496907/edd8a357-13a5-41b1-b9f4-190efb73dcdc)
+![Untitled (5)](https://github.com/Karen-Aguilar/Karen-Aguilar/assets/151496907/77dfb9ce-004f-4623-a12b-f6e5ec4a9384)
+
 
 <!---
 Karen-Aguilar/Karen-Aguilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
