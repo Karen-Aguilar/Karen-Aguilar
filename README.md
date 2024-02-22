@@ -60,9 +60,8 @@ creatividad
 atención al detalle
 curiosidad
 
+---
 ### Link
-
-[Links with title](http://localhost/ "link title")
 
 `<LinkedIn>` : <https://www.linkedin.com/in/kareneac-data-analyst/>
 
