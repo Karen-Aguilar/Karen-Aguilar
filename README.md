@@ -13,7 +13,7 @@
 
 ## 🚀 [Technologies](https://github.com/pandao/editor.md "Heading link")
 - **Languages**: `SQL` `Python`
-- **Data Tools**: `BigQuery` `Google Colab` `Jupyter Notebook` `Power BI` `Looker Studio` `Google Sheets` `Excel`
+- **Data Tools**: `BigQuery` `Google Colab` `Jupyter Notebook` `Power BI` `Looker Studio` `Tableau` `Google Sheets` `Excel`
 - **Productivity Tools**: `Google Documents` `Google Slides` `PowerPoint` `Word` `Slack` `Notion`
 
 ## 📈 [Technical Skills](https://github.com/pandao/editor.md "Heading link")
